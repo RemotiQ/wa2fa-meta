@@ -1,6 +1,6 @@
-package com.wa2fa.qr;
+package io.github.remotiq.qr;
 
-import com.wa2fa.Wa2faConfig;
+import io.github.remotiq.Wa2faConfig;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.RealmModel;
 import org.keycloak.services.resource.RealmResourceProvider;

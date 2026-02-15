@@ -1,4 +1,4 @@
-package com.wa2fa.qr;
+package io.github.remotiq.qr;
 
 import java.security.SecureRandom;
 

@@ -1,12 +1,12 @@
-package com.wa2fa.action;
+package io.github.remotiq.action;
 
-import com.wa2fa.LanguageResolver;
-import com.wa2fa.MessageService;
-import com.wa2fa.OtpService;
-import com.wa2fa.PhoneNumberValidator;
-import com.wa2fa.Wa2faConfig;
-import com.wa2fa.qr.QrTokenService;
-import com.wa2fa.qr.VerificationStore;
+import io.github.remotiq.LanguageResolver;
+import io.github.remotiq.MessageService;
+import io.github.remotiq.OtpService;
+import io.github.remotiq.PhoneNumberValidator;
+import io.github.remotiq.Wa2faConfig;
+import io.github.remotiq.qr.QrTokenService;
+import io.github.remotiq.qr.VerificationStore;
 import jakarta.ws.rs.core.MultivaluedMap;
 import jakarta.ws.rs.core.Response;
 import org.jboss.logging.Logger;

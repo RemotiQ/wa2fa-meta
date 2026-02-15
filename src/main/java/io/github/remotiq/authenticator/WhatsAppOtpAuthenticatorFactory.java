@@ -1,4 +1,4 @@
-package com.wa2fa.authenticator;
+package io.github.remotiq.authenticator;
 
 import org.keycloak.Config;
 import org.keycloak.authentication.Authenticator;

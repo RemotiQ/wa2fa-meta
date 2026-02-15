@@ -1,8 +1,8 @@
-package com.wa2fa.event;
+package io.github.remotiq.event;
 
-import com.wa2fa.MessageService;
-import com.wa2fa.SmsService;
-import com.wa2fa.WhatsAppService;
+import io.github.remotiq.MessageService;
+import io.github.remotiq.SmsService;
+import io.github.remotiq.WhatsAppService;
 import org.keycloak.Config;
 import org.keycloak.events.EventListenerProvider;
 import org.keycloak.events.EventListenerProviderFactory;

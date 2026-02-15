@@ -1,4 +1,4 @@
-package com.wa2fa.action;
+package io.github.remotiq.action;
 
 import org.keycloak.Config;
 import org.keycloak.authentication.RequiredActionFactory;

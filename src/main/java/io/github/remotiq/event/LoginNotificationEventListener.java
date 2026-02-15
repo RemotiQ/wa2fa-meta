@@ -1,11 +1,11 @@
-package com.wa2fa.event;
+package io.github.remotiq.event;
 
-import com.wa2fa.BrowserParser;
-import com.wa2fa.LanguageResolver;
-import com.wa2fa.MessageService;
-import com.wa2fa.PhoneNumberValidator;
-import com.wa2fa.Wa2faExecutor;
-import com.wa2fa.action.PhoneVerificationRequiredActionFactory;
+import io.github.remotiq.BrowserParser;
+import io.github.remotiq.LanguageResolver;
+import io.github.remotiq.MessageService;
+import io.github.remotiq.PhoneNumberValidator;
+import io.github.remotiq.Wa2faExecutor;
+import io.github.remotiq.action.PhoneVerificationRequiredActionFactory;
 import org.jboss.logging.Logger;
 import org.keycloak.events.Event;
 import org.keycloak.events.EventListenerProvider;

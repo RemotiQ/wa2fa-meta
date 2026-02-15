@@ -1,9 +1,9 @@
-package com.wa2fa.qr;
+package io.github.remotiq.qr;
 
-import com.wa2fa.Wa2faConfig;
-import com.wa2fa.Wa2faExecutor;
-import com.wa2fa.WebhookSignatureValidator;
-import com.wa2fa.WhatsAppService;
+import io.github.remotiq.Wa2faConfig;
+import io.github.remotiq.Wa2faExecutor;
+import io.github.remotiq.WebhookSignatureValidator;
+import io.github.remotiq.WhatsAppService;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.Context;
 import jakarta.ws.rs.core.HttpHeaders;

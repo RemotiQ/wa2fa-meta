@@ -1,4 +1,4 @@
-package com.wa2fa;
+package io.github.remotiq;
 
 /**
  * Parses User-Agent strings into human-readable browser + OS summaries.

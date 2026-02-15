@@ -1,4 +1,4 @@
-package com.wa2fa.qr;
+package io.github.remotiq.qr;
 
 import org.jboss.logging.Logger;
 import org.keycloak.Config;

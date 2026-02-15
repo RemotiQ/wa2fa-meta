@@ -1,4 +1,4 @@
-package com.wa2fa;
+package io.github.remotiq;
 
 import org.keycloak.models.UserModel;
 

@@ -1,1 +1,1 @@
-com.wa2fa.action.PhoneVerificationRequiredActionFactory
+io.github.remotiq.action.PhoneVerificationRequiredActionFactory
