@@ -11,6 +11,28 @@
 
     <name>wa2fa - WhatsApp 2FA for Keycloak</name>
     <description>Keycloak plugin for WhatsApp-based OTP authentication, login notifications, and phone verification</description>
+    <url>https://www.remotiq.com.au/projects/wa2fa</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/license/mit/</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Anshu S.</name>
+            <email>anshusah@hotmail.com</email>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:https://github.com/sah-anshu/wa2fa-meta.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/sah-anshu/wa2fa-meta.git</developerConnection>
+        <url>https://github.com/sah-anshu/wa2fa-meta</url>
+    </scm>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
